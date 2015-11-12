@@ -1,0 +1,12 @@
+{
+  "name": "lukesUbuntu/oldfriends-scrapper",
+  "description": "Oldfriends scraping tool",
+  "keywords": [
+    "oldfriends Module"
+  ],
+  "license": "MIT",
+  "require": {
+    "sunra/php-simple-html-dom-parser": "v1.5.0"
+  },
+  "minimum-stability": "stable"
+}
